@@ -30,3 +30,6 @@ footer{
 .pad{
 	padding: 10px 15px
 }
+#anh-bia{
+	width: 100%;min-height: 400px;background-image:url("../images/why.jpg");background-repeat: no-repeat; background-position: center;background-size: cover
+}
